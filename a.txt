@@ -1,3 +1,10 @@
 second changes
 
 Branch A change 1
+Branch A change 2
+
+Branch A chnage 3
+
+what will happen to this line?
+
+and lets see what happens next
